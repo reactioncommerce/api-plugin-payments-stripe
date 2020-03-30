@@ -15,7 +15,7 @@ import stripeListRefunds from "./util/stripeListRefunds.js";
  */
 export default async function register(app) {
   await app.registerPlugin({
-    label: "Stripe",
+    label: "Stripe Payments",
     name: STRIPE_PACKAGE_NAME,
     version: pkg.version,
     i18n,

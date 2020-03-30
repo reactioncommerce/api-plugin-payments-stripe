@@ -1,2 +1,2 @@
 
-export const STRIPE_PACKAGE_NAME = "reaction-stripe";
+export const STRIPE_PACKAGE_NAME = "payments-stripe";
