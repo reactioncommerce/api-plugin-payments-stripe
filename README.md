@@ -1,4 +1,4 @@
-# plugin-payments-stripe
+# api-plugin-payments-stripe
 
 [![npm (scoped)](https://img.shields.io/npm/v/@reactioncommerce/plugin-payments-stripe.svg)](https://www.npmjs.com/package/@reactioncommerce/plugin-payments-stripe)
 [![CircleCI](https://circleci.com/gh/reactioncommerce/plugin-payments-stripe.svg?style=svg)](https://circleci.com/gh/reactioncommerce/plugin-payments-stripe)
