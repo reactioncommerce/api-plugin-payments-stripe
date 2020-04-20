@@ -31,7 +31,7 @@
     "accounting-js": "^1.1.1",
     "envalid": "^6.0.1",
     "nock": "^12.0.3",
-    "stripe": "^8.36.0"
+    "stripe": "^8.38.0"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
