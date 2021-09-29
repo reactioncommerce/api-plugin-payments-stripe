@@ -1,10 +1,12 @@
-# api-plugin-payments-stripe
+# api-plugin-payments-stripe (deprecated)
 
 [![npm (scoped)](https://img.shields.io/npm/v/@reactioncommerce/api-plugin-payments-stripe.svg)](https://www.npmjs.com/package/@reactioncommerce/api-plugin-payments-stripe)
 [![CircleCI](https://circleci.com/gh/reactioncommerce/api-plugin-payments-stripe.svg?style=svg)](https://circleci.com/gh/reactioncommerce/api-plugin-payments-stripe)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 ## Summary
+
+This repository is deprecated, we will continue to support issues until 10/31/2021. Please use [Stripe SCA plugin](https://github.com/reactioncommerce/api-plugin-payments-stripe-sca) instead.
 
 Stripe Payments plugin for the [Reaction API](https://github.com/reactioncommerce/reaction)
 
